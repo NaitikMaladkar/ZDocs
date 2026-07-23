@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+*.keystore
+# No keystore files should ever be committed – they contain signing credentials
+app/zdocs-release.keystore
+/app/build
+/app/release

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_primary">#FF009688</color>
+    <color name="teal_dark">#FF00796B</color>
+    <color name="teal_light">#FFB2DFDB</color>
+    <color name="green_accent">#FF4CAF50</color>
+    <color name="green_light">#FFC8E6C9</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="light_bg">#FFF5F5F5</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="divider">#FFE0E0E0</color>
+</resources>
